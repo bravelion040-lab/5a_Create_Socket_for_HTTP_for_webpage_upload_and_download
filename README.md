@@ -55,12 +55,12 @@ s.close()
 
 ## Server:
 
-<img width="1853" height="1091" alt="server" src="https://github.com/user-attachments/assets/30413d2b-a2df-4366-9515-c001126b6055" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0207533a-2c8e-454e-a1b2-0b5ed2b5c989" />
+
 
 ## Client:
 
-<img width="1857" height="1095" alt="client" src="https://github.com/user-attachments/assets/00812136-7fb8-4c76-9c34-eeb302150759" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7f52f72f-92e0-4c9f-9a22-27011fb7f160" />
 
 
 ## Result
